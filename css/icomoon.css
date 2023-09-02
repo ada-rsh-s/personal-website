@@ -71,3 +71,6 @@
 .icon-person:before {
   content: "\e7fd";
 }
+.icon-whatsapp:before {
+  content: "\e7ffd";
+}
