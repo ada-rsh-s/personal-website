@@ -2095,6 +2095,12 @@ h1, h2, h3, h4, h5,
           transform: translateY(-50%);
           background: #3e64ff; }
 
+
+  @media (max-width: 768px) {
+    #navi{
+      display: none;
+    }
+  }
 .page {
   width: 100%;
   margin-bottom: 7em; }
