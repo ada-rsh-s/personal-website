@@ -2101,6 +2101,15 @@ h1, h2, h3, h4, h5,
     #navi{
       display: none;
     }
+    .freelance {
+    margin-top: -200px !important;
+    }
+  }
+
+  @media (max-width: 325px) {
+    .cvbutton{
+      margin-bottom: 20px;
+    }
   }
 
 .page {
